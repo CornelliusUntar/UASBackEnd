@@ -7,4 +7,4 @@ ini merupakan hasil pengerjaan UAS Back End kelompok 7 Kelas B
 3. Fawaz (535230112)
 4. William Immanuel Lee (535230040)
 5. Nicolas Matthew (535230038)
-6.Felix Prajna Susanto (535230121)
+6. Felix Prajna Susanto (535230121)
